@@ -1,9 +1,9 @@
-Nama   : Nanda Amelia
-Nim    : 191402015
+- Nama   : Nanda Amelia
+- Nim    : 191402015
 
 # UTS_ADJ1
-link youtube: 
-link tutorial: https://docs.gns3.com/docs/using-gns3/advanced/connect-gns3-internet/ 
+- link youtube: 
+- link tutorial: https://docs.gns3.com/docs/using-gns3/advanced/connect-gns3-internet/ 
 
 INSTALISASI, KONFIGURASI DAN MENGHUBUNGKAN GNS3 KE INTERNET(server lokal)
 
