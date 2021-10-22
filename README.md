@@ -94,7 +94,7 @@ Langkah-langkah berikut menunjukkan cara menghubungkan instalasi GNS3 lokal ke I
 ![1 11](https://user-images.githubusercontent.com/66839985/138457954-e2f11628-8de2-4f3f-a07c-6e8f72f381fa.png)
 ![1 12](https://user-images.githubusercontent.com/66839985/138457963-8a937cfa-5f25-4eee-b64e-11879d218855.png)
 
-11.	Configurasi Ip Address
+11.	Configurasi Ip Address.
 R1# configure terminal
 R1(config)# interface FastEthernet 0/0
 R1(config-if)# ip address 192.168.1.123 255.255.255.0
